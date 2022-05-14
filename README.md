@@ -1,6 +1,10 @@
-### Hi there 👋
+### Nice to see you around here!
+I´m Stanley, I am a Full Stack Developer with 2+ years of experience in developing enterprise applications. this is a place where I'll start uploading what I learn by myself / while working because most of my code is for enterprise ... and yeah, that's not open source 🤣 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbStanley)](https://github.com/anuraghazra/github-readme-stats)
+* 🔭  I’m currently working on something cool 😉
+* 🌱  I’m currently learning Flutter, Go and refreshing some NodeJS knowledge
+* 👨‍💻  Personal website under reconstruction.
+* ⚡  Fun fact: I ❤️ photography, animation and cycling.
 
 ### OS
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
