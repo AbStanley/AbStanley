@@ -1,5 +1,5 @@
 ###  😉 Nice to see you around here!
-<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Hi, I´m Stanley and I am a Full Stack Developer with 2+ years of experience in developing enterprise applications. this is a place where I'll start uploading what I learn by myself / while working because most of my code is for enterprise ... and yeah, that's not open source 🤣 
+<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Hi, I´m Stanley and I am a Full Stack Developer with 2+ years of experience in developing enterprise applications. this is a place where I upload and destroy my code, where I test and practice what I learn by my myself. Entreprise code is not here because that's not open source 🤣 
 
 * 🔭  I’m currently working on something cool 😉
 * 🌱  I’m currently learning Flutter, Go and refreshing some NodeJS knowledge
