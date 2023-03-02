@@ -2,7 +2,7 @@
 <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Hi, I´m Stanley and I am a Full Stack Developer with 2+ years of experience in developing enterprise applications. this is a place where I upload and destroy my code, where I test and practice what I learn by my myself. Entreprise code is not here because that's not open source 🤣 
 
 * 🔭  I’m currently working on something cool 😉
-* 🌱  I’m currently learning Flutter, Go and refreshing some NodeJS knowledge
+* 🌱  I’m currently learning Flutter, NextJS, C# .NET and Go
 * 👨‍💻  Personal website under reconstruction.
 * ⚡  Fun fact: I ❤️ photography, animation and cycling.
 
