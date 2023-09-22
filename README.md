@@ -2,7 +2,7 @@
 <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Hi, I´m Stanley and I am a Software Engineer. this is a place where I upload and destroy my code, where I test and practice what I learn by my myself. Entreprise code is not here because that's not open source 🤣 
 
 * 🔭  I’m currently working on something cool 😉
-* 🌱  I’m currently learning Flutter, NextJS, C# .NET and Go
+* 🌱  I’m currently learning NextJS, C# .NET and Go 
 * 👨‍💻  Personal website under reconstruction.
 * ⚡  Fun fact: I ❤️ photography, animation and cycling.
 
@@ -19,6 +19,7 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![C#](https://camo.githubusercontent.com/908fb344c2d336bc042f28f61254c1b9dd17f6fb06274b90fe323b4e41a0d11b/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d432b536861727026636f6c6f723d353132424434266c6f676f3d432b5368617270266c6f676f436f6c6f723d464646464646266c6162656c3d)
 
 ### Frameworks & Technologies
 #### Frontend
