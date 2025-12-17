@@ -4,7 +4,7 @@
 
 ### Senior Software Engineer | Fullstack Architect | Creative Technologist
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Stanley-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/) &nbsp; [![Portfolio](https://img.shields.io/badge/Portfolio-Live-black?style=for-the-badge&logo=vercel)](https://www.gautamkrishnar.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-black?style=for-the-badge&logo=vercel)](https://www.pxstanley.com/)
 
 <br/>
 
