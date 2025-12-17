@@ -2,7 +2,7 @@
 
 # Hi, I'm Stanley 👋
 
-### Senior Software Engineer | Fullstack Architect | Creative Technologist
+### Software Engineer | Fullstack Architect | Creative Technologist
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-black?style=for-the-badge&logo=vercel)](https://www.pxstanley.com/)
 
