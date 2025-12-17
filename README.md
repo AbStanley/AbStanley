@@ -96,6 +96,3 @@ Bridging the gap between engineering logic and visual design.
 
 <br/>
 
-<div align="center">
-<a href="https://www.linkedin.com/">Let's Connect</a>
-</div>
