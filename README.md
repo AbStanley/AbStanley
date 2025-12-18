@@ -13,7 +13,7 @@
 ### 🚀 Professional Profile
 I am a Software Engineer engaged in the full lifecycle of software development. This profile serves as my laboratory for **project experiments**, architectural concepts, and continuous upskilling. My enterprise work remains proprietary, the repositories here reflect my dedication to clean code, new technologies, and problem-solving, experimenting with new languages, and refining complex UI/UX implementations.
 
-* 🔭 **Focus:** Currently expanding expertise in **Next.js**, **C# .NET**, and **Go**.
+* 🔭 **Focus:** Currently expanding expertise in **.NET**, and **Angular**.
 * ⚡ **Interests:** Beyond code, I am passionate about photography, animation, and cycling.
 * ⚡ **Core Philosophy:** "Make it work, make it right, make it fast."
 
